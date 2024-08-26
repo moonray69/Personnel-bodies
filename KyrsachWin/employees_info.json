@@ -1,0 +1,262 @@
+{
+    "employees": [
+        {
+            "certeficates": [
+                {
+                    "date": "dfgdf",
+                    "location": "dfgdf",
+                    "name": "dgdfg",
+                    "points": "40"
+                }
+            ],
+            "education": {
+                "inf": [
+                    {
+                        "diplom": "dfgfd",
+                        "education_level": "Complete general education",
+                        "graduation_year": "22",
+                        "name": "dfgdf",
+                        "science": "dfgdf"
+                    }
+                ]
+            },
+            "family_status": {
+                "family_members": [
+                    {
+                        "Date_of_birth": "dfgdf",
+                        "PIB": "dfgdf",
+                        "level_relatives": "wife"
+                    }
+                ],
+                "family_status": "Divorced"
+            },
+            "health": {
+                "blood_type": "II blood group(Rhesus minus)",
+                "diseases": [
+                    {
+                        "disability_group": "No",
+                        "name": "dfgfd",
+                        "type": "Chronic disease"
+                    }
+                ],
+                "state_of_health": "dfgdgfd"
+            },
+            "military_registration": {
+                "military_experience": 5,
+                "position": "dfgd",
+                "rank": "Petty officer",
+                "suitability": "+"
+            },
+            "passport": {
+                "Date of birthday": "dfgdf",
+                "Family status": "dfgfd",
+                "IPN": "dfgd",
+                "Name": "dfgdf",
+                "Nationality": "dfgfd",
+                "Patronymic": "dfgfd",
+                "Sex": "dfgfd",
+                "Surname": "dfgfd",
+                "adres": "dfgfd"
+            },
+            "salary": {
+                "fop": null,
+                "free_lancer": [
+                    {
+                        "Bonus": 2000.0,
+                        "Salary": 20000.0
+                    }
+                ],
+                "government": null,
+                "pension": null
+            },
+            "vacation": {
+                "payed_vacations": [
+                    {
+                        "date": "dfgdf",
+                        "day_duration": 15,
+                        "order": "dfgfd",
+                        "payment": 100.0,
+                        "period": "dfgdf"
+                    }
+                ],
+                "sick_leave": null,
+                "unpayed_vacations": null
+            },
+            "work": {
+                "Date_and_reasons_for_dismissal": "dfgd",
+                "Work_experience": "5",
+                "information_about_past_work": "fdgdf",
+                "last_place_of_work": "dfgdf",
+                "news_about_the_withdrawal_of_pensions": "dfgd",
+                "place_of_actual_residence": "dfgdf",
+                "place_of_residence_according_to_state_registration": "dfgd",
+                "position": "dfgdf",
+                "work_experienc_date": "4"
+            }
+        },
+        {
+            "certeficates": [
+                {
+                    "date": "12.02.2024",
+                    "location": "Minskaya",
+                    "name": "plus",
+                    "points": "30"
+                }
+            ],
+            "education": {
+                "inf": [
+                    {
+                        "diplom": "3539",
+                        "education_level": "Higher education (bachelor's degree)",
+                        "graduation_year": "2027",
+                        "name": "KNU",
+                        "science": "-"
+                    }
+                ]
+            },
+            "family_status": {
+                "family_members": null,
+                "family_status": "Not married"
+            },
+            "health": {
+                "blood_type": "III blood group (Rhesus plus)",
+                "diseases": [
+                    {
+                        "disability_group": "No",
+                        "name": "-",
+                        "type": "Hereditary disease "
+                    }
+                ],
+                "state_of_health": "Very Good"
+            },
+            "military_registration": {
+                "military_experience": 0,
+                "position": "-",
+                "rank": "Ordinary",
+                "suitability": "+"
+            },
+            "passport": {
+                "Date of birthday": "11.04.2006",
+                "Family status": "-",
+                "IPN": "0048234212",
+                "Name": "Oleksandr",
+                "Nationality": "UA",
+                "Patronymic": "Oleksanrovich",
+                "Sex": "man",
+                "Surname": "Kravets",
+                "adres": "Tarasa Shevchenko 7a"
+            },
+            "salary": {
+                "fop": null,
+                "free_lancer": null,
+                "government": null,
+                "pension": null
+            },
+            "vacation": {
+                "payed_vacations": [
+                    {
+                        "date": "20.03.2024",
+                        "day_duration": 14,
+                        "order": "Kravets",
+                        "payment": 100.0,
+                        "period": "19.03.2024"
+                    }
+                ],
+                "sick_leave": null,
+                "unpayed_vacations": null
+            },
+            "work": {
+                "Date_and_reasons_for_dismissal": "-",
+                "Work_experience": "2",
+                "information_about_past_work": "-",
+                "last_place_of_work": "SD project",
+                "news_about_the_withdrawal_of_pensions": "-",
+                "place_of_actual_residence": "Tarasa Shevchenko 7a",
+                "place_of_residence_according_to_state_registration": "Zoi gaydai 6a",
+                "position": "game dev",
+                "work_experienc_date": "1"
+            }
+        },
+        {
+            "certeficates": null,
+            "education": {
+                "inf": [
+                    {
+                        "diplom": "42423",
+                        "education_level": "Complete general education",
+                        "graduation_year": "432243",
+                        "name": "dfgdfg",
+                        "science": "gdfgdf"
+                    }
+                ]
+            },
+            "family_status": {
+                "family_members": [
+                    {
+                        "Date_of_birth": "134",
+                        "PIB": "dfgdfgdf",
+                        "level_relatives": "son"
+                    }
+                ],
+                "family_status": "Divorced"
+            },
+            "health": {
+                "blood_type": "II blood group (Rhesus plus)",
+                "diseases": null,
+                "state_of_health": "fdgdfgfd"
+            },
+            "military_registration": {
+                "military_experience": 0,
+                "position": "",
+                "rank": "",
+                "suitability": "+"
+            },
+            "passport": {
+                "Date of birthday": "dfgdfg",
+                "Family status": "gdfg",
+                "IPN": "gdfgdfgfd",
+                "Name": "dfgdfgd",
+                "Nationality": "dfgdf",
+                "Patronymic": "gdfgdf",
+                "Sex": "dfgdf",
+                "Surname": "dfgdfg",
+                "adres": "dfgdf"
+            },
+            "salary": {
+                "fop": null,
+                "free_lancer": null,
+                "government": null,
+                "pension": [
+                    {
+                        "Bonus": 1500.0,
+                        "Salary": 15000.0
+                    }
+                ]
+            },
+            "vacation": {
+                "payed_vacations": [
+                    {
+                        "date": "3131",
+                        "day_duration": 30,
+                        "order": "gdfgdfgfd",
+                        "payment": 1000.0,
+                        "period": "123213"
+                    }
+                ],
+                "sick_leave": null,
+                "unpayed_vacations": null
+            },
+            "work": {
+                "Date_and_reasons_for_dismissal": "gdfgfd",
+                "Work_experience": "4",
+                "information_about_past_work": "fgddfg",
+                "last_place_of_work": "dfgdfgdf",
+                "news_about_the_withdrawal_of_pensions": "gdfgdfg",
+                "place_of_actual_residence": "dfgdfg",
+                "place_of_residence_according_to_state_registration": "dfgdfgdf",
+                "position": "fdgfdg",
+                "work_experienc_date": "4"
+            }
+        }
+    ]
+}

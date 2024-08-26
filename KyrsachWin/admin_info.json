@@ -1,0 +1,29 @@
+{
+    "user": [],
+    "users": [
+        {
+            "Email": "sashakravets73@gmail.com",
+            "Name": "Sasha",
+            "Password": "1234",
+            "Phone Number": "+380935236414",
+            "Surname": "Kravets",
+            "Username": "moonray"
+        },
+        {
+            "Email": "dfasfsadfa@gmail.com",
+            "Name": "sdfsadfsd",
+            "Password": "sdsfsdf",
+            "Phone Number": "+380342034032439",
+            "Surname": "dsfsdaf",
+            "Username": "asdfsda"
+        },
+        {
+            "Email": "bla@gmail.com",
+            "Name": "bla",
+            "Password": "1234",
+            "Phone Number": "+3804567889",
+            "Surname": "bla",
+            "Username": "bla"
+        }
+    ]
+}
